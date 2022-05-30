@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.samzhanggo.codepusher.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.samzhanggo.codepusher.MyBundle
 
 class MyApplicationService {
 
